@@ -8,4 +8,4 @@
 ## Tech Stack
 - React
 - Spring Boot
-- MySQL
+- Postgresql
